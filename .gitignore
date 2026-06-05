@@ -1,0 +1,30 @@
+# Ignore local project user state folder
+.Treadmill.UserState/
+
+# LabVIEW Local Project Settings (Absolute must-ignore)
+# Stores local window positions, open VIs, and user-specific paths.
+*.lvlps
+
+# Build Outputs
+# Standardize your build specifications to output to a dedicated 'Builds' directory.
+[Bb]uilds/
+[Bb]uild/
+*.exe
+*.dll
+*.lvdisttag
+
+# LabVIEW internal error logs and crash dumps
+*.err
+
+# Backup and Temporary Files
+*.bak
+*.tmp
+*~
+
+# Optional: Measurement & Automation Explorer (MAX) exports
+# Only ignore if you don't want to track hardware configurations.
+*.nce
+
+# OS-specific files
+Thumbs.db
+.DS_Store
