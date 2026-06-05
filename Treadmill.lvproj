@@ -62,7 +62,10 @@
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 		</Item>
+		<Item Name="Controls.ctl" Type="VI" URL="../controls/Controls.ctl"/>
+		<Item Name="Display_Panel.ctl" Type="VI" URL="../controls/Display_Panel.ctl"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="Program_Settings.ctl" Type="VI" URL="../controls/Program_Settings.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Main Application" Type="EXE">
