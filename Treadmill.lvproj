@@ -62,6 +62,7 @@
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 		</Item>
+		<Item Name="Check_Speed_And_Incline.vi" Type="VI" URL="../Check_Speed_And_Incline.vi"/>
 		<Item Name="Controls.ctl" Type="VI" URL="../controls/Controls.ctl"/>
 		<Item Name="Display_Panel.ctl" Type="VI" URL="../controls/Display_Panel.ctl"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
