@@ -61,13 +61,20 @@
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
+			<Item Name="UI Refs.ctl" Type="VI" URL="../controls/UI Refs.ctl"/>
 		</Item>
 		<Item Name="Calculate_Distance.vi" Type="VI" URL="../Calculate_Distance.vi"/>
 		<Item Name="Check_Speed_And_Incline.vi" Type="VI" URL="../Check_Speed_And_Incline.vi"/>
 		<Item Name="Controls.ctl" Type="VI" URL="../controls/Controls.ctl"/>
 		<Item Name="Display_Panel.ctl" Type="VI" URL="../controls/Display_Panel.ctl"/>
+		<Item Name="File_Enum.ctl" Type="VI" URL="../controls/File_Enum.ctl"/>
+		<Item Name="File_IO.vi" Type="VI" URL="../File_IO.vi"/>
+		<Item Name="Increment_Run_Time.vi" Type="VI" URL="../Increment_Run_Time.vi"/>
+		<Item Name="Increment_Step_Duration.vi" Type="VI" URL="../Increment_Step_Duration.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="Mode.ctl" Type="VI" URL="../controls/Mode.ctl"/>
 		<Item Name="Program_Settings.ctl" Type="VI" URL="../controls/Program_Settings.ctl"/>
+		<Item Name="System_State.ctl" Type="VI" URL="../controls/System_State.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Main Application" Type="EXE">
